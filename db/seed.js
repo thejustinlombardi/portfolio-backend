@@ -1,14 +1,14 @@
 const mongoose = require('../db/connection');
-const seedData = require('./seeds.json');
-const Post = require('./models/Post');
+const seedData = require('./seed.json');
+const Project = require('./models/Project');
 
-// First we delete the posts
-Post.deleteMany({})
+// First we delete the projects
+Project.deleteMany({})
 	.then(() => {
-		// insert many posts docs
-		Post.insertMany(seedData).then((post) => {
-			console.log('We have posts! 🐹');
-			console.log(post);
+		// insert many projects docs
+		Project.insertMany(seedData).then((project) => {
+			console.log('We have projects! 🐹');
+			console.log(project);
 			process.exit();
 		});
 	})
