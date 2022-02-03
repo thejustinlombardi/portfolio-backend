@@ -2,7 +2,7 @@
     {
 			"title": "Portfolio",
 			"id": 0,
-			"tech": "React, CSS, EmailJS, Imgur",
+			"tech": "React, CSS, EmailJS, MongoDB, Netlify, Heroku, Imgur",
 			"description":
 				"My very own portfolio inspired by old-fashioned comic book covers!",
 			"status":
@@ -13,8 +13,21 @@
 			"site": "www.thejustinlombardi.com"
 		},
 		{
-			"title": "My Favorite Hero",
+			"title": "FELP",
 			"id": 1,
+			"tech": "React, CSS, Passport, Bootstrap, MongoDB, Node, Heroku, Netlify",
+			"description":
+				"This application is called FELP. It is a collaboration between a few programmers to create a blog style version of a certain food review site. ",
+			"status":
+				"This site is fully functional with user authorization. You can browse all of the posts that have been made from previous users, but if you would like to post, you must sign up. Don't worry! We will not contact you! This is purely so you can control your posts and only your posts! We will be adding additional features so we can make the experience the best for the users.",
+			"motivation":
+				"This was a great group effort from my fellow developers Andrew Kal, Frankz Condori, and Jeremiah Lee. They are phenomenal workers and helped make this app what it is today. The unique aspect of this application comes from the idea that the posts are more meaningful in the sense that the user who posts will display their years of residence at a certain location.",
+			"image": "https://i.imgur.com/DL1JNFs.png",
+			"site": "https://felp-official.netlify.app/"
+		},
+		{
+			"title": "My Favorite Hero",
+			"id": 2,
 			"tech": "React, CSS, Netlify, Imgur",
 			"description":
 				"A superhero app that allows you to search for your favorite heroes using a great API, fun styling, and React!",
@@ -27,7 +40,7 @@
 		},
 		{
 			"title": "Simon - The Game",
-			"id": 2,
+			"id": 3,
 			"tech": "HTML, CSS, JavaScript, GarageBand",
 			"description": "A web browser take on the classic game Simon!",
 			"status":
