@@ -1,7 +1,20 @@
 [
+	{
+			"title": "BYOBar",
+			"id": 0,
+			"tech": "React, CSS, EmailJS, Python, Postgres, Django, Netlify, Heroku, Imgur",
+			"description":
+				"An interactive application where users can browse different cocktails, create their own, and comment on their favorites!",
+			"status":
+				"This app is currently fully operational. We want to add additional features that make the site flow more smoothly. These features would include more user authentication for posts where the edit, update, and delete buttons only appear if you own that drink post. Our other goal is still to finish creating this in Angular!",
+			"motivation":
+				"I worked with an amazing team do put this idea together. We were talking about different ideas and we said, 'Wouldn't it be nice if you could customize your own cocktails when you got to a bar?' I had been talking about making different cocktails recently because I like to experiment with flavors. This all led to us wanting to create a platform where everyone can share their own cocktails, comment on ones they like, and explore!",
+			"image": "https://i.imgur.com/5ThvDf4.png",
+			"site": "https://buildyourownbar.netlify.app/"
+		},
     {
 			"title": "Portfolio",
-			"id": 0,
+			"id": 1,
 			"tech": "React, CSS, EmailJS, MongoDB, Netlify, Heroku, Imgur",
 			"description":
 				"My very own portfolio inspired by old-fashioned comic book covers!",
@@ -14,7 +27,7 @@
 		},
 		{
 			"title": "FELP",
-			"id": 1,
+			"id": 2,
 			"tech": "React, CSS, Passport, Bootstrap, MongoDB, Node, Heroku, Netlify",
 			"description":
 				"This application is called FELP. It is a collaboration between a few programmers to create a blog style version of a certain food review site. ",
@@ -27,7 +40,7 @@
 		},
 		{
 			"title": "My Favorite Hero",
-			"id": 2,
+			"id": 3,
 			"tech": "React, CSS, Netlify, Imgur",
 			"description":
 				"A superhero app that allows you to search for your favorite heroes using a great API, fun styling, and React!",
@@ -40,7 +53,7 @@
 		},
 		{
 			"title": "Simon - The Game",
-			"id": 3,
+			"id": 4,
 			"tech": "HTML, CSS, JavaScript, GarageBand",
 			"description": "A web browser take on the classic game Simon!",
 			"status":
