@@ -8,7 +8,7 @@
 			"status":
 				"This app is currently fully operational. We want to add additional features that make the site flow more smoothly. These features would include more user authentication for posts where the edit, update, and delete buttons only appear if you own that drink post. Our other goal is still to finish creating this in Angular!",
 			"motivation":
-				"I worked with an amazing team do put this idea together. We were talking about different ideas and we said, 'Wouldn't it be nice if you could customize your own cocktails when you got to a bar?' I had been talking about making different cocktails recently because I like to experiment with flavors. This all led to us wanting to create a platform where everyone can share their own cocktails, comment on ones they like, and explore!",
+				"I worked with an amazing team to put this idea together. We were talking about different ideas and we said, 'Wouldn't it be nice if you could customize your own cocktails when you got to a bar?' I had been talking about making different cocktails recently because I like to experiment with flavors. This all led to us wanting to create a platform where everyone can share their own cocktails, comment on ones they like, and explore!",
 			"image": "https://i.imgur.com/5ThvDf4.png",
 			"site": "https://buildyourownbar.netlify.app/"
 		},
